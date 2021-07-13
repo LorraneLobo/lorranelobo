@@ -16,7 +16,7 @@ Realização de treinamentos e esclarecimentos quanto a utilização do sistema.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loryalves&layout=compact)](https://github.com/loryalves/github-readme-stats)
 
 ### Contato
-<a href="mailto:lorrane.dev@gmail.com?"><img align="left" alt="Gmail" width="80" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=lorrane.dev@gmail.com&amp;su=SUBJECT&amp;body=BODY&amp" rel="nofollow"><img align="left" alt="Gmail" width="80" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/lorranealvesdev/)
 <br />
 
