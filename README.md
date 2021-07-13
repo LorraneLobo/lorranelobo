@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## Introdução
-- ✨ Atualmente, estou trabalhando no projeto 🖥️ [Workshop JavaFX com JDBC](https://github.com/loryalves/workshop-javafx-jdbc)
+- ✨ Atualmente estou trabalhando no projeto 🖥️ [Workshop JavaFX com JDBC](https://github.com/loryalves/workshop-javafx-jdbc)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo JavaScript + HTML e CSS
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Lendo: "Clean Code: A Handbook of Agile Software Craftsmanship"
