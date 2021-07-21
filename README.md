@@ -1,7 +1,7 @@
 # Hello! Sou a Lorrane Alves 👋
 
 ## Introdução
-- ✨ Trabalhando no projeto 🖥️ [Workshop JavaFX com JDBC](https://github.com/loryalves/workshop-javafx-jdbc)
+- ✨ Trabalhando no projeto 🖥️ [Web services com Spring Boot e JPA/Hibernate](https://github.com/loryalves/projeto-springboot)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo JavaScript + HTML e CSS
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Lendo: "Clean Code: A Handbook of Agile Software Craftsmanship"
