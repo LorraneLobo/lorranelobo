@@ -1,7 +1,7 @@
 # Hello! Sou a Lorrane Alves 👋
 
 ## Introdução 
-- ✨ Trabalhando no projeto 🖥️ [Workshop API Restful com Spring Boot e banco MongoDB](https://github.com/loryalves/workshop-APIRestful-sb-mongo)
+- ✨ Trabalhando no projeto 🖥️ [APIRest Gerenciamento de Pessoas com Spring Boot](https://github.com/loryalves/gerenciamento-pessoas-api)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo JavaScript + HTML e CSS
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Lendo: "Clean Code: A Handbook of Agile Software Craftsmanship"
