@@ -7,10 +7,6 @@
 - 📚 Lendo: "Clean Code: A Handbook of Agile Software Craftsmanship"
 - 🕹️ Sim, eu gosto de jogos! (Todo mundo merece um descanso ne?! 😅)
 
-Tenho experiência com Suporte ao Usuário (remoto e presencial) no ramo hospitalar com utilização do sistema Tasy.
-Criação de relatórios SQL (utilizando o banco Oracle e o sistema Tasy), gerenciamento e resolução de Ordens de Serviço.
-Elaboração de documentos e manuais, indicadores e análise críticas.
-Realização de treinamentos e esclarecimentos quanto a utilização do sistema.
 
 ### Linguagens que mais estou usando: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loryalves&layout=compact)](https://github.com/loryalves/github-readme-stats)
