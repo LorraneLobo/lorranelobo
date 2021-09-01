@@ -1,4 +1,4 @@
-# Hello! Sou a Lorrane Alves 👋
+# Olá! Sou a Lorrane Alves 👋
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [API Rest Gerenciamento de Pessoas com Spring Boot](https://github.com/loryalves/gerenciamento-pessoas-api)
