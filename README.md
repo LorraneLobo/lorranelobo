@@ -2,9 +2,9 @@
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [API Rest Gerenciamento de Pessoas com Spring Boot](https://github.com/loryalves/gerenciamento-pessoas-api)
-- 🌱 Estou melhorando minhas raízes em Java e aprendendo JavaScript + HTML e CSS
+- 🌱 Estou melhorando minhas raízes em Java e aprendendo front-end com JavaScript
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
-- 📚 Lendo: "Clean Code: A Handbook of Agile Software Craftsmanship"
+- 📚 Lendo: "Arquitetura Limpa: O guia do artesão para estrutura e design de software"
 - 🕹️ Sim, eu gosto de jogos! (Todo mundo merece um descanso ne?! 😅)
 
 
