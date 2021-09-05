@@ -1,7 +1,7 @@
 # Olá! Sou a Lorrane Alves 👋
 
 ## Introdução 
-- ✨ Trabalhando no projeto 🖥️ [Recriando a página principal da Netflix](https://github.com/loryalves/Netflix-Clone)
+- ✨ Trabalhando no projeto 🖥️ [Página principal da Netflix](https://github.com/loryalves/Netflix-Clone)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo front-end com JavaScript
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Lendo: "Arquitetura Limpa: O guia do artesão para estrutura e design de software"
