@@ -4,7 +4,7 @@
 - ✨ Trabalhando no projeto 🖥️ [Jogo Pedra, Papel ou Tesoura](https://github.com/loryalves/Jogo-Pedra-Papel-Tesoura)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (android)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
-- 📚 Lendo: "Arquitetura Limpa: O guia do artesão para estrutura e design de software"
+- 📚 Ler é um dos meus passatempos preferidos!
 - 🕹️ Sim, eu gosto de jogos! (Todo mundo merece um descanso ne?! 😅)
 
 
