@@ -5,7 +5,8 @@
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (android)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Ler é um dos meus passatempos preferidos!
-- 🕹️ Sim, eu gosto de jogos! (Todo mundo merece um descanso ne?! 😅)
+- 🎨 O outro é pintar!
+- 🕹️ Sim, eu gosto de jogos! (Darksouls é minha paixão 💖)
 
 
 ### Linguagens que mais estou usando: 
