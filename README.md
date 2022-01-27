@@ -2,7 +2,7 @@
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [WhatsApp clone](https://github.com/loryalves/whatsapp-clone)
-- 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (android)
+- 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (java e kotlin)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🎨 O outro é pintar!
