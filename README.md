@@ -1,7 +1,7 @@
 # Olá! Sou a Lorrane Alves 👋
 
 ## Introdução 
-- ✨ Trabalhando no projeto 🖥️ [WhatsApp clone](https://github.com/loryalves/whatsapp-clone)
+- ✨ Trabalhando no projeto 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
 - 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (java e kotlin)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Ler é um dos meus passatempos preferidos!
