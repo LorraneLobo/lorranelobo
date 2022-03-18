@@ -6,7 +6,7 @@
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🎨 O outro é pintar!
-- 🕹️ Sim, eu gosto de jogos! (Dark Souls é minha paixão 💖)
+- 🕹️ Eu gosto de jogos! (Dark Souls é minha paixão 💖)
 
 
 ### Linguagens que mais estou usando: 
