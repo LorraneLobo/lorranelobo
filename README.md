@@ -1,8 +1,9 @@
-# Olá! Sou a Lorrane Alves 👋
+# Olá! Sou a Lorrane, mas pode me chamar de Lo! 👋
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
-- 🌱 Estou melhorando minhas raízes em Java e aprendendo Mobile (java e kotlin)
+- 💻 Working at Usend Money Transfer!  
+- 🌱 Estou melhorando minhas raízes em Java e Mobile (java e kotlin)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🎨 O outro é pintar!
