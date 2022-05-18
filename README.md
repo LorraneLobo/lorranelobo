@@ -10,8 +10,8 @@
 - 🕹️ Eu gosto de jogos! (Dark Souls é minha paixão 💖)
 
 
-### Linguagens que mais estou usando: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loryalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Linguagens que mais estou usando:  -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loryalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Contato
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=lorrane.dev@gmail.com&amp;su=SUBJECT&amp;body=BODY&amp" rel="nofollow"><img align="left" alt="Gmail" width="80" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
