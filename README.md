@@ -1,4 +1,4 @@
-# Olá! Sou a Lorrane, mas pode me chamar de Lo! 👋
+# Olá! Sou a Lorrane👋
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
