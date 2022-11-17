@@ -2,12 +2,12 @@
 
 ## Introdução 
 - ✨ Trabalhando no projeto 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
-- 💻 Working at Usend Money Transfer!  
-- 🌱 Estou melhorando minhas raízes em Java e Mobile (java e kotlin)
-- ⚡ Sei me virar no Inglês! (Nível Intermediário-Avançado)
+- 💻 Working at [Invillia](https://invillia.com/global-growth-framework/)!  
+- 🌱 Estou buscando melhorar meu desenvolvimento Mobile para Android (kotlin)
+- ⚡ Sei me virar no Inglês! (Nível Intermediário)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🎨 O outro é pintar!
-- 🕹️ Eu gosto de jogos! (Dark Souls é minha paixão 💖)
+- 🕹️ Eu amo jogos e RPG! (Dark Souls é minha paixão 💖)
 
 
 <!-- ### Linguagens que mais estou usando:  -->
