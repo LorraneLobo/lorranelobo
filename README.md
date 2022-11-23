@@ -6,7 +6,6 @@
 - 🌱 Estou buscando melhorar meu desenvolvimento Mobile para Android (kotlin)
 - ⚡ Sei me virar no Inglês! (Nível Intermediário)
 - 📚 Ler é um dos meus passatempos preferidos!
-- 🎨 O outro é pintar!
 - 🕹️ Eu amo jogos e RPG! (Dark Souls é minha paixão 💖)
 
 
