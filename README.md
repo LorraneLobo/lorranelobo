@@ -3,7 +3,7 @@
 ## Introdução 
 - ✨ Trabalhando no projeto pessoal 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
 - 💻 Working at [Invillia](https://invillia.com/global-growth-framework/)!  
-- 🌱 Estou buscando melhorar meu desenvolvimento Mobile para Android (kotlin)
+- 🌱 Estou buscando melhorar meu desenvolvimento Mobile para Android
 - ⚡ Sei me virar no Inglês! (Nível Intermediário)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🕹️ Eu amo jogos e RPG! (Dark Souls é minha paixão 💖)
