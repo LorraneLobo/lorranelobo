@@ -2,7 +2,7 @@
 
 ## Introdução 
 - ✨ Trabalhando no projeto pessoal 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git)
-- 🌱 Estou buscando melhorar meu desenvolvimento Mobile para Android
+- 🌱 Estou buscando melhorar meu desenvolvimento Mobile em Android
 - ⚡ Sei me virar no Inglês! (Nível Intermediário)
 - 📚 Ler é um dos meus passatempos preferidos!
 - 🕹️ Eu amo jogos e RPG! (Dark Souls é minha paixão 💖)
