@@ -3,7 +3,7 @@
 ## Hello!  
 Oi! Tenho 26 anos e moro em Goiânia/GO. Sou apaixonada em desenvolvimento mobile e busco me especializar na plataforma Android. Tenho 2 gatinhos que bagunçam a minha casa inteira (mas que eu amo muitoo).
 
-✨ Trabalhando no projeto pessoal 🖥️ [Anime List](https://github.com/loryalves/Anime-List.git) </br>
+✨ Trabalhando no projeto pessoal 🖥️ [Dice Roller](https://github.com/loryalves/Dice-roller.git) </br>
 🌱 Estou buscando melhorar meu desenvolvimento Mobile em Android </br>
 ⚡ Sei me virar no Inglês! (Nível Intermediário) </br>
 📚 Ler é um dos meus passatempos preferidos! </br>
