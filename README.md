@@ -31,6 +31,5 @@ Oi! Tenho 26 anos e moro em Goiânia/GO. Sou apaixonada em desenvolvimento mobil
 ##
 <p align="center">
 <a href="https://github.com/lorranelobo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lorranelobo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lorranelobo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
