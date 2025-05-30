@@ -1,7 +1,7 @@
 # Lorrane Lobo
 
 ## Hello!  
-Oi! Tenho 27 anos e moro em Goiânia/GO. Sou apaixonada em desenvolvimento mobile e busco me especializar na plataforma Android. Tenho 2 gatinhos que bagunçam a minha casa inteira (mas que eu amo muitoo).
+Oi! Sou apaixonada em desenvolvimento mobile e busco me especializar na plataforma Android. Tenho 2 gatinhos que bagunçam a minha casa inteira (mas que eu amo muitoo).
 
 <!--✨ Trabalhando no projeto pessoal 🖥️ [Dice Roller](https://github.com/lorranelobo/Dice-roller.git) </br> 🌱 Estou buscando melhorar meu desenvolvimento Mobile em Android </br>-->
 ⚡ Sei me virar no Inglês! (Nível Intermediário) </br>
