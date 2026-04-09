@@ -29,7 +29,7 @@ Oi! Sou apaixonada em desenvolvimento mobile e busco me especializar na platafor
 </br>
 
 ##
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/lorranelobo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lorranelobo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a> -->
